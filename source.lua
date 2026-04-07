@@ -1,5 +1,5 @@
 if debugX then
-	warn('Initialising Rayfield')
+	warn('Initialising Charon')
 end
 
 local function getService(name)
